@@ -3,12 +3,12 @@
 
 *I will use this page to introduce my self and include some links so you can learn more about me.*
 
-**Top 3** things I like to do in my free time
+**Top 3 things** I like to do in my free time
 1. Playing Sports
 2. Cooking
 3. Watching Netflix
 
-**4** subjects I'm taking this semester
+**4 subjects** I'm taking this semester
 * STATS 220
 * STATS 201
 * STATS 255
